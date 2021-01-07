@@ -1,3 +1,3 @@
 def hello_t(array)
-  i = 0
+  if block_given?
 end
